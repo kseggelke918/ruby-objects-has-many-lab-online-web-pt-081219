@@ -21,6 +21,6 @@ class Song
       self.artist.name
     # else 
       
-    # end 
+     end 
   end 
 end 
